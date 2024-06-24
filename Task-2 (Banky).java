@@ -74,7 +74,7 @@ public class BankSystem {
     }
 
     public static void main(String[] args) {
-        BankSystem bankSystem = new BankSystem(10); // Assuming a maximum of 10 Accs
+        BankSystem bankSystem = new BankSystem(100); // Assuming a maximum of 100 Accounts
         Scanner sc = new Scanner(System.in);
         System.out.println();
         System.out.println(" --- Welcome to the BANK ---\n");

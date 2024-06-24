@@ -123,7 +123,7 @@ public class BankSystem {
                     bankSystem.displayAllAccounts();
                     break;
                 case 6:
-                    System.out.println("Exiting...");
+                    System.out.println("  EXITING...");
                     sc.close();
                     System.exit(0);
                     break;
